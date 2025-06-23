@@ -7,7 +7,7 @@ public class Masina {
     //un constructor poate sa fie public, private, protected urmat de acelasi nume cu clasa
     //intr-o clasa putem sa avem  mai multi constructori diferentiati prin nr sau tipul de parametri
     //obiect=instanta a unei clase care contine proprietatile si metodele acesteia
-    //dintr-o clasa putem sa creem o multime de obiecte diferentiate prin numele acestora
+    //dintr-o clasa putem sa cream o multime de obiecte diferentiate prin numele acestora
     // in momentul cand se initializeaza un obiect folosim cuvantul new urmat de apelarea constructorului din clasa
     //ex: Masina andreeaAudi= new Masina("Audi", "A4");
     //in momentul cand am initializat un obiect pe baza lui putem sa accesam proprietatile si metodele din clasa respectiva
